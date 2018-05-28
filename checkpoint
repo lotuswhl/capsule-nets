@@ -1,0 +1,2 @@
+model_checkpoint_path: "capsule_net_dynamic_routing_checkpoint"
+all_model_checkpoint_paths: "capsule_net_dynamic_routing_checkpoint"
